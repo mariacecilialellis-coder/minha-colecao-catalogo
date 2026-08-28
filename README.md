@@ -13,10 +13,12 @@ faz sentido espelhar).
 
 ```
 data/
-  pt/sets/index.json     lista resumida de todos os sets, em português
-  pt/sets/<setId>.json   detalhe completo de um set (cartas, cardCount)
-  en/sets/index.json     mesma coisa, em inglês
+  pt/sets/index.json      lista resumida de todos os sets, em português
+  pt/sets/<setId>.json    detalhe completo de um set (cartas, cardCount)
+  pt/cards-index.json     id/nome/número/imagem de TODA carta de TODO set (busca)
+  en/sets/index.json      mesma coisa, em inglês
   en/sets/<setId>.json
+  en/cards-index.json
 ```
 
 ## Como o app consome isso

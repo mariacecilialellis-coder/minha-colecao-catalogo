@@ -38,6 +38,11 @@ async function sincronizarIdioma(idioma) {
   );
   console.log(`[${idioma}] ${listaSets.length} sets no índice.`);
 
+  // Junta id/nome/número/imagem de TODA carta de TODO set num único arquivo
+  // — é o que permite buscar carta por nome (scanner, busca manual) sem
+  // depender do endpoint de busca ao vivo da TCGdex.
+  const indiceDeCartas = [];
+
   let falhas = 0;
   for (let i = 0; i < listaSets.length; i += TAMANHO_LOTE) {
     const lote = listaSets.slice(i, i + TAMANHO_LOTE);
@@ -49,6 +54,15 @@ async function sincronizarIdioma(idioma) {
             path.join(dirSets, `${set.id}.json`),
             JSON.stringify(detalhe, null, 2),
           );
+          for (const carta of detalhe.cards ?? []) {
+            indiceDeCartas.push({
+              id: carta.id,
+              name: carta.name,
+              localId: carta.localId,
+              image: carta.image,
+              setId: set.id,
+            });
+          }
         } catch (erro) {
           falhas += 1;
           console.error(`[${idioma}] erro no set ${set.id}: ${erro.message}`);
@@ -57,6 +71,12 @@ async function sincronizarIdioma(idioma) {
     );
     console.log(`[${idioma}] ${Math.min(i + TAMANHO_LOTE, listaSets.length)}/${listaSets.length} sets`);
   }
+
+  await writeFile(
+    path.join('data', idioma, 'cards-index.json'),
+    JSON.stringify(indiceDeCartas, null, 2),
+  );
+  console.log(`[${idioma}] ${indiceDeCartas.length} cartas no índice de busca.`);
 
   if (falhas > 0) {
     console.warn(`[${idioma}] ${falhas} set(s) falharam nesta rodada — ficam com a versão anterior salva, tenta de novo na próxima sincronização.`);
