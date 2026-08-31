@@ -5,6 +5,13 @@ on:
     # Todo dia às 06:00 UTC (03:00 no horário de Brasília)
     - cron: '0 6 * * *'
   workflow_dispatch: {}
+  # Dá pra disparar a sincronização na hora com um simples git push (sem
+  # precisar clicar em "Run workflow" no site) — usado pelo Claude Code pra
+  # rodar assim que detectar que a TCGdex voltou do ar, sem depender de
+  # ninguém clicar em nada. Pushes feitos pelo próprio bot desta Action (via
+  # GITHUB_TOKEN) não disparam isso de novo, então não tem risco de loop.
+  push:
+    branches: [main]
 
 permissions:
   contents: write
