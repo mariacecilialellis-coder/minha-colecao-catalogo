@@ -1,0 +1,32 @@
+{
+  "cardCount": {
+    "firstEd": 0,
+    "holo": 0,
+    "normal": 0,
+    "official": 140,
+    "reverse": 0,
+    "total": 140
+  },
+  "cards": [],
+  "id": "A2",
+  "legal": {
+    "expanded": false,
+    "standard": false
+  },
+  "name": "Embate do Tempo e Espaço",
+  "releaseDate": "2025-01-30",
+  "serie": {
+    "id": "tcgp",
+    "name": "Pokémon Estampas Ilustradas Pocket"
+  },
+  "boosters": [
+    {
+      "id": "boo_A2-palkia",
+      "name": "Palkia"
+    },
+    {
+      "id": "boo_A2-dialga",
+      "name": "Dialga"
+    }
+  ]
+}

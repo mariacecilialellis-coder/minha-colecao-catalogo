@@ -1,0 +1,27 @@
+{
+  "cardCount": {
+    "firstEd": 0,
+    "holo": 0,
+    "normal": 0,
+    "official": 95,
+    "reverse": 0,
+    "total": 95
+  },
+  "cards": [],
+  "id": "col1",
+  "legal": {
+    "expanded": false,
+    "standard": false
+  },
+  "name": "Chamado das Lendas",
+  "releaseDate": "2011-02-09",
+  "serie": {
+    "id": "col",
+    "name": "Chamado das Lendas"
+  },
+  "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol",
+  "tcgOnline": "CL",
+  "abbreviation": {
+    "official": "COL"
+  }
+}

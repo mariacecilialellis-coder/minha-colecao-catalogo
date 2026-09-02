@@ -1,0 +1,27 @@
+{
+  "cardCount": {
+    "firstEd": 0,
+    "holo": 0,
+    "normal": 0,
+    "official": 113,
+    "reverse": 0,
+    "total": 113
+  },
+  "cards": [],
+  "id": "bw11",
+  "legal": {
+    "expanded": true,
+    "standard": false
+  },
+  "name": "Tesouros Lendários",
+  "releaseDate": "2013-11-06",
+  "serie": {
+    "id": "bw",
+    "name": "Black & White"
+  },
+  "symbol": "https://assets.tcgdex.net/univ/bw/bw11/symbol",
+  "tcgOnline": "LTR",
+  "abbreviation": {
+    "official": "LTR"
+  }
+}

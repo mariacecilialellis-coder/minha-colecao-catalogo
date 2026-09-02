@@ -1,0 +1,146 @@
+{
+  "cardCount": {
+    "firstEd": 0,
+    "holo": 0,
+    "normal": 40,
+    "official": 24,
+    "reverse": 72,
+    "total": 24
+  },
+  "cards": [
+    {
+      "id": "sve-001",
+      "localId": "001",
+      "name": "Energia de Grama"
+    },
+    {
+      "id": "sve-002",
+      "localId": "002",
+      "name": "Energia de Fogo"
+    },
+    {
+      "id": "sve-003",
+      "localId": "003",
+      "name": "Energia de Água"
+    },
+    {
+      "id": "sve-004",
+      "localId": "004",
+      "name": "Energia de Raios"
+    },
+    {
+      "id": "sve-005",
+      "localId": "005",
+      "name": "Energia Psíquica"
+    },
+    {
+      "id": "sve-006",
+      "localId": "006",
+      "name": "Energia de Luta"
+    },
+    {
+      "id": "sve-007",
+      "localId": "007",
+      "name": "Energia de Escuridão"
+    },
+    {
+      "id": "sve-008",
+      "localId": "008",
+      "name": "Energia de Metal"
+    },
+    {
+      "id": "sve-009",
+      "localId": "009",
+      "name": "Energia de Grama"
+    },
+    {
+      "id": "sve-010",
+      "localId": "010",
+      "name": "Energia de Fogo"
+    },
+    {
+      "id": "sve-011",
+      "localId": "011",
+      "name": "Energia de Água"
+    },
+    {
+      "id": "sve-012",
+      "localId": "012",
+      "name": "Energia de Raios"
+    },
+    {
+      "id": "sve-013",
+      "localId": "013",
+      "name": "Energia Psíquica"
+    },
+    {
+      "id": "sve-014",
+      "localId": "014",
+      "name": "Energia de Luta"
+    },
+    {
+      "id": "sve-015",
+      "localId": "015",
+      "name": "Energia de Escuridão"
+    },
+    {
+      "id": "sve-016",
+      "localId": "016",
+      "name": "Energia de Metal"
+    },
+    {
+      "id": "sve-017",
+      "localId": "017",
+      "name": "Energia de Grama"
+    },
+    {
+      "id": "sve-018",
+      "localId": "018",
+      "name": "Energia de Fogo"
+    },
+    {
+      "id": "sve-019",
+      "localId": "019",
+      "name": "Energia de Água"
+    },
+    {
+      "id": "sve-020",
+      "localId": "020",
+      "name": "Energia de Raios"
+    },
+    {
+      "id": "sve-021",
+      "localId": "021",
+      "name": "Energia Psíquica"
+    },
+    {
+      "id": "sve-022",
+      "localId": "022",
+      "name": "Energia de Luta"
+    },
+    {
+      "id": "sve-023",
+      "localId": "023",
+      "name": "Energia de Escuridão"
+    },
+    {
+      "id": "sve-024",
+      "localId": "024",
+      "name": "Energia de Metal"
+    }
+  ],
+  "id": "sve",
+  "legal": {
+    "expanded": true,
+    "standard": false
+  },
+  "name": "Escarlate e Violeta Energia",
+  "releaseDate": "2023-03-31",
+  "serie": {
+    "id": "sv",
+    "name": "Escarlate e Violeta"
+  },
+  "abbreviation": {
+    "official": "SVE"
+  }
+}

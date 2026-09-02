@@ -1,0 +1,28 @@
+{
+  "cardCount": {
+    "firstEd": 0,
+    "holo": 0,
+    "normal": 0,
+    "official": 71,
+    "reverse": 0,
+    "total": 71
+  },
+  "cards": [],
+  "id": "A4a",
+  "legal": {
+    "expanded": false,
+    "standard": false
+  },
+  "name": "Nascentes Reclusas",
+  "releaseDate": "2025-08-28",
+  "serie": {
+    "id": "tcgp",
+    "name": "Pokémon Estampas Ilustradas Pocket"
+  },
+  "symbol": "https://assets.tcgdex.net/univ/tcgp/A4a/symbol",
+  "boosters": [
+    {
+      "id": "boo_A4a-suicune"
+    }
+  ]
+}

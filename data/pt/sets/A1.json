@@ -1,0 +1,37 @@
+{
+  "cardCount": {
+    "firstEd": 0,
+    "holo": 0,
+    "normal": 0,
+    "official": 226,
+    "reverse": 0,
+    "total": 226
+  },
+  "cards": [],
+  "id": "A1",
+  "legal": {
+    "expanded": false,
+    "standard": false
+  },
+  "name": "Dominação Genética",
+  "releaseDate": "2024-10-30",
+  "serie": {
+    "id": "tcgp",
+    "name": "Pokémon Estampas Ilustradas Pocket"
+  },
+  "symbol": "https://assets.tcgdex.net/univ/tcgp/A1/symbol",
+  "boosters": [
+    {
+      "id": "boo_A1-mewtwo",
+      "name": "Mewtwo"
+    },
+    {
+      "id": "boo_A1-charizard",
+      "name": "Charizard"
+    },
+    {
+      "id": "boo_A1-pikachu",
+      "name": "Pikachu"
+    }
+  ]
+}

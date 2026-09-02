@@ -1,0 +1,27 @@
+{
+  "cardCount": {
+    "firstEd": 0,
+    "holo": 0,
+    "normal": 0,
+    "official": 123,
+    "reverse": 0,
+    "total": 123
+  },
+  "cards": [],
+  "id": "hgss1",
+  "legal": {
+    "expanded": false,
+    "standard": false
+  },
+  "name": "HeartGold SoulSilver",
+  "releaseDate": "2010-02-10",
+  "serie": {
+    "id": "hgss",
+    "name": "HeartGold SoulSilver"
+  },
+  "symbol": "https://assets.tcgdex.net/univ/hgss/hgss1/symbol",
+  "tcgOnline": "HS",
+  "abbreviation": {
+    "official": "HS"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "cardCount": {
+    "firstEd": 0,
+    "holo": 0,
+    "normal": 0,
+    "official": 90,
+    "reverse": 0,
+    "total": 90
+  },
+  "cards": [],
+  "id": "hgss3",
+  "legal": {
+    "expanded": false,
+    "standard": false
+  },
+  "name": "Destemido",
+  "releaseDate": "2010-08-18",
+  "serie": {
+    "id": "hgss",
+    "name": "HeartGold SoulSilver"
+  },
+  "symbol": "https://assets.tcgdex.net/univ/hgss/hgss3/symbol",
+  "tcgOnline": "UD",
+  "abbreviation": {
+    "official": "UND"
+  }
+}

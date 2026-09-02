@@ -1,0 +1,27 @@
+{
+  "cardCount": {
+    "firstEd": 0,
+    "holo": 0,
+    "normal": 0,
+    "official": 106,
+    "reverse": 0,
+    "total": 106
+  },
+  "cards": [],
+  "id": "ex9",
+  "legal": {
+    "expanded": false,
+    "standard": false
+  },
+  "name": "EX Esmeralda",
+  "releaseDate": "2005-05-09",
+  "serie": {
+    "id": "ex",
+    "name": "EX"
+  },
+  "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol",
+  "tcgOnline": "EM",
+  "abbreviation": {
+    "official": "EM"
+  }
+}

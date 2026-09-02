@@ -1,0 +1,27 @@
+{
+  "cardCount": {
+    "firstEd": 0,
+    "holo": 0,
+    "normal": 0,
+    "official": 20,
+    "reverse": 0,
+    "total": 20
+  },
+  "cards": [],
+  "id": "dv1",
+  "legal": {
+    "expanded": true,
+    "standard": false
+  },
+  "name": "Cofre do Dragão",
+  "releaseDate": "2012-10-05",
+  "serie": {
+    "id": "bw",
+    "name": "Black & White"
+  },
+  "symbol": "https://assets.tcgdex.net/univ/bw/dv1/symbol",
+  "tcgOnline": "DRV",
+  "abbreviation": {
+    "official": "DRV"
+  }
+}

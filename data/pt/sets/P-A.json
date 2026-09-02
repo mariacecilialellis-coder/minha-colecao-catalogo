@@ -1,0 +1,54 @@
+{
+  "cardCount": {
+    "firstEd": 0,
+    "holo": 0,
+    "normal": 0,
+    "official": 0,
+    "reverse": 0,
+    "total": 0
+  },
+  "cards": [],
+  "id": "P-A",
+  "legal": {
+    "expanded": false,
+    "standard": false
+  },
+  "name": "Promo-A",
+  "releaseDate": "2024-10-30",
+  "serie": {
+    "id": "tcgp",
+    "name": "Pokémon Estampas Ilustradas Pocket"
+  },
+  "boosters": [
+    {
+      "id": "boo_P-A-vol1"
+    },
+    {
+      "id": "boo_P-A-vol2"
+    },
+    {
+      "id": "boo_P-A-vol3"
+    },
+    {
+      "id": "boo_P-A-vol4"
+    },
+    {
+      "id": "boo_P-A-vol5"
+    },
+    {
+      "id": "boo_P-A-vol6"
+    },
+    {
+      "id": "boo_P-A-vol7"
+    },
+    {
+      "id": "boo_P-A-vol8"
+    },
+    {
+      "id": "boo_P-A-vol9"
+    },
+    {
+      "id": "boo_P-A-vol10"
+    }
+  ]
+}

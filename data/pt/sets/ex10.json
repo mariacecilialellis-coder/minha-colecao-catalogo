@@ -1,0 +1,27 @@
+{
+  "cardCount": {
+    "firstEd": 0,
+    "holo": 0,
+    "normal": 0,
+    "official": 115,
+    "reverse": 0,
+    "total": 115
+  },
+  "cards": [],
+  "id": "ex10",
+  "legal": {
+    "expanded": false,
+    "standard": false
+  },
+  "name": "EX Forças Ocultas",
+  "releaseDate": "2005-08-22",
+  "serie": {
+    "id": "ex",
+    "name": "EX"
+  },
+  "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol",
+  "tcgOnline": "UF",
+  "abbreviation": {
+    "official": "UF"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "cardCount": {
+    "firstEd": 0,
+    "holo": 0,
+    "normal": 8,
+    "official": 8,
+    "reverse": 8,
+    "total": 8
+  },
+  "cards": [
+    {
+      "id": "mee-001",
+      "localId": "001",
+      "name": "Energia de Grama"
+    },
+    {
+      "id": "mee-002",
+      "localId": "002",
+      "name": "Energia de Fogo"
+    },
+    {
+      "id": "mee-003",
+      "localId": "003",
+      "name": "Energia de Água"
+    },
+    {
+      "id": "mee-004",
+      "localId": "004",
+      "name": "Energia de Raios"
+    },
+    {
+      "id": "mee-005",
+      "localId": "005",
+      "name": "Energia Psíquica"
+    },
+    {
+      "id": "mee-006",
+      "localId": "006",
+      "name": "Energia de Luta"
+    },
+    {
+      "id": "mee-007",
+      "localId": "007",
+      "name": "Energia de Escuridão"
+    },
+    {
+      "id": "mee-008",
+      "localId": "008",
+      "name": "Energia de Metal"
+    }
+  ],
+  "id": "mee",
+  "legal": {
+    "expanded": true,
+    "standard": false
+  },
+  "name": "Megaevolução Energia",
+  "releaseDate": "2025-09-25",
+  "serie": {
+    "id": "me",
+    "name": "Megaevolução"
+  },
+  "abbreviation": {
+    "official": "MEE"
+  }
+}

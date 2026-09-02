@@ -1,0 +1,27 @@
+{
+  "cardCount": {
+    "firstEd": 0,
+    "holo": 0,
+    "normal": 0,
+    "official": 62,
+    "reverse": 0,
+    "total": 62
+  },
+  "cards": [],
+  "id": "base3",
+  "legal": {
+    "expanded": false,
+    "standard": false
+  },
+  "name": "Fóssil",
+  "releaseDate": "1999-10-10",
+  "serie": {
+    "id": "base",
+    "name": "Coleção Básica"
+  },
+  "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol",
+  "tcgOnline": "FO",
+  "abbreviation": {
+    "official": "FO"
+  }
+}

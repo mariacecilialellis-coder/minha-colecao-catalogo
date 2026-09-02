@@ -1,0 +1,27 @@
+{
+  "cardCount": {
+    "firstEd": 0,
+    "holo": 0,
+    "normal": 0,
+    "official": 102,
+    "reverse": 0,
+    "total": 102
+  },
+  "cards": [],
+  "id": "hgss4",
+  "legal": {
+    "expanded": false,
+    "standard": false
+  },
+  "name": "Triunfante",
+  "releaseDate": "2010-11-03",
+  "serie": {
+    "id": "hgss",
+    "name": "HeartGold SoulSilver"
+  },
+  "symbol": "https://assets.tcgdex.net/univ/hgss/hgss4/symbol",
+  "tcgOnline": "TM",
+  "abbreviation": {
+    "official": "TRI"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "cardCount": {
+    "firstEd": 0,
+    "holo": 0,
+    "normal": 0,
+    "official": 95,
+    "reverse": 0,
+    "total": 95
+  },
+  "cards": [],
+  "id": "hgss2",
+  "legal": {
+    "expanded": false,
+    "standard": false
+  },
+  "name": "Revelado",
+  "releaseDate": "2010-05-12",
+  "serie": {
+    "id": "hgss",
+    "name": "HeartGold SoulSilver"
+  },
+  "symbol": "https://assets.tcgdex.net/univ/hgss/hgss2/symbol",
+  "tcgOnline": "UL",
+  "abbreviation": {
+    "official": "UL"
+  }
+}

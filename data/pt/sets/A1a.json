@@ -1,0 +1,27 @@
+{
+  "cardCount": {
+    "firstEd": 0,
+    "holo": 0,
+    "normal": 0,
+    "official": 68,
+    "reverse": 0,
+    "total": 68
+  },
+  "cards": [],
+  "id": "A1a",
+  "legal": {
+    "expanded": false,
+    "standard": false
+  },
+  "name": "Ilha Mítica",
+  "releaseDate": "2024-12-17",
+  "serie": {
+    "id": "tcgp",
+    "name": "Pokémon Estampas Ilustradas Pocket"
+  },
+  "boosters": [
+    {
+      "id": "boo_A1a-mew"
+    }
+  ]
+}
