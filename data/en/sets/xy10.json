@@ -261,15 +261,15 @@
       "name": "Pupitar"
     },
     {
-      "id": "xy10-43",
-      "image": "https://assets.tcgdex.net/en/xy/xy10/43",
-      "localId": "43",
-      "name": "Regirock EX"
-    },
-    {
       "id": "xy10-43a",
       "image": "https://assets.tcgdex.net/en/xy/xy10/43a",
       "localId": "43a",
+      "name": "Regirock EX"
+    },
+    {
+      "id": "xy10-43",
+      "image": "https://assets.tcgdex.net/en/xy/xy10/43",
+      "localId": "43",
       "name": "Regirock EX"
     },
     {
@@ -645,15 +645,15 @@
       "name": "Mega Catcher"
     },
     {
-      "id": "xy10-105a",
-      "image": "https://assets.tcgdex.net/en/xy/xy10/105a",
-      "localId": "105a",
-      "name": "N"
-    },
-    {
       "id": "xy10-105",
       "image": "https://assets.tcgdex.net/en/xy/xy10/105",
       "localId": "105",
+      "name": "N"
+    },
+    {
+      "id": "xy10-105a",
+      "image": "https://assets.tcgdex.net/en/xy/xy10/105a",
+      "localId": "105a",
       "name": "N"
     },
     {
@@ -687,15 +687,15 @@
       "name": "Scorched Earth"
     },
     {
-      "id": "xy10-111",
-      "image": "https://assets.tcgdex.net/en/xy/xy10/111",
-      "localId": "111",
-      "name": "Shauna"
-    },
-    {
       "id": "xy10-111a",
       "image": "https://assets.tcgdex.net/en/xy/xy10/111a",
       "localId": "111a",
+      "name": "Shauna"
+    },
+    {
+      "id": "xy10-111",
+      "image": "https://assets.tcgdex.net/en/xy/xy10/111",
+      "localId": "111",
       "name": "Shauna"
     },
     {

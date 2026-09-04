@@ -512,6 +512,16 @@
     }
   },
   {
+    "id": "pop6",
+    "name": "POP Series 6",
+    "logo": "https://assets.tcgdex.net/en/pop/pop6/logo",
+    "symbol": "https://assets.tcgdex.net/univ/pop/pop6/symbol",
+    "cardCount": {
+      "total": 17,
+      "official": 17
+    }
+  },
+  {
     "id": "tk-dp-l",
     "name": "DP trainer Kit (Lucario)",
     "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-l/symbol",
@@ -527,16 +537,6 @@
     "cardCount": {
       "total": 12,
       "official": 12
-    }
-  },
-  {
-    "id": "pop6",
-    "name": "POP Series 6",
-    "logo": "https://assets.tcgdex.net/en/pop/pop6/logo",
-    "symbol": "https://assets.tcgdex.net/univ/pop/pop6/symbol",
-    "cardCount": {
-      "total": 17,
-      "official": 17
     }
   },
   {
@@ -910,6 +910,14 @@
     }
   },
   {
+    "id": "rc",
+    "name": "Radiant Collection",
+    "cardCount": {
+      "total": 25,
+      "official": 25
+    }
+  },
+  {
     "id": "bw11",
     "name": "Legendary Treasures",
     "logo": "https://assets.tcgdex.net/en/bw/bw11/logo",
@@ -917,14 +925,6 @@
     "cardCount": {
       "total": 140,
       "official": 113
-    }
-  },
-  {
-    "id": "rc",
-    "name": "Radiant Collection",
-    "cardCount": {
-      "total": 25,
-      "official": 25
     }
   },
   {
@@ -956,18 +956,18 @@
     }
   },
   {
-    "id": "tk-xy-sy",
-    "name": "XY trainer Kit (Sylveon)",
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol",
+    "id": "tk-xy-n",
+    "name": "XY trainer Kit (Noivern)",
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
     "cardCount": {
       "total": 30,
       "official": 30
     }
   },
   {
-    "id": "tk-xy-n",
-    "name": "XY trainer Kit (Noivern)",
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+    "id": "tk-xy-sy",
+    "name": "XY trainer Kit (Sylveon)",
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol",
     "cardCount": {
       "total": 30,
       "official": 30
@@ -1002,18 +1002,18 @@
     }
   },
   {
-    "id": "tk-xy-w",
-    "name": "XY trainer Kit (Wigglytuff)",
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol",
+    "id": "tk-xy-b",
+    "name": "XY trainer Kit (Bisharp)",
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol",
     "cardCount": {
       "total": 30,
       "official": 30
     }
   },
   {
-    "id": "tk-xy-b",
-    "name": "XY trainer Kit (Bisharp)",
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol",
+    "id": "tk-xy-w",
+    "name": "XY trainer Kit (Wigglytuff)",
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol",
     "cardCount": {
       "total": 30,
       "official": 30
@@ -1050,18 +1050,18 @@
     }
   },
   {
-    "id": "tk-xy-latia",
-    "name": "XY trainer Kit (Latias)",
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+    "id": "tk-xy-latio",
+    "name": "XY trainer Kit (Latios)",
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latio/symbol",
     "cardCount": {
       "total": 30,
       "official": 30
     }
   },
   {
-    "id": "tk-xy-latio",
-    "name": "XY trainer Kit (Latios)",
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latio/symbol",
+    "id": "tk-xy-latia",
+    "name": "XY trainer Kit (Latias)",
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
     "cardCount": {
       "total": 30,
       "official": 30
@@ -1126,18 +1126,18 @@
     }
   },
   {
-    "id": "tk-xy-su",
-    "name": "XY trainer Kit (Suicune)",
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-su/symbol",
+    "id": "tk-xy-p",
+    "name": "XY trainer Kit (Pikachu Libre)",
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol",
     "cardCount": {
       "total": 30,
       "official": 30
     }
   },
   {
-    "id": "tk-xy-p",
-    "name": "XY trainer Kit (Pikachu Libre)",
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol",
+    "id": "tk-xy-su",
+    "name": "XY trainer Kit (Suicune)",
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-su/symbol",
     "cardCount": {
       "total": 30,
       "official": 30
@@ -1182,16 +1182,6 @@
     }
   },
   {
-    "id": "smp",
-    "name": "SM Black Star Promos",
-    "logo": "https://assets.tcgdex.net/en/sm/smp/logo",
-    "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol",
-    "cardCount": {
-      "total": 248,
-      "official": 248
-    }
-  },
-  {
     "id": "sm1",
     "name": "Sun & Moon",
     "logo": "https://assets.tcgdex.net/en/sm/sm1/logo",
@@ -1202,18 +1192,28 @@
     }
   },
   {
-    "id": "tk-sm-l",
-    "name": "SM trainer Kit (Lycanroc)",
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-l/symbol",
+    "id": "smp",
+    "name": "SM Black Star Promos",
+    "logo": "https://assets.tcgdex.net/en/sm/smp/logo",
+    "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol",
     "cardCount": {
-      "total": 30,
-      "official": 30
+      "total": 248,
+      "official": 248
     }
   },
   {
     "id": "tk-sm-r",
     "name": "SM trainer Kit (Alolan Raichu)",
     "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol",
+    "cardCount": {
+      "total": 30,
+      "official": 30
+    }
+  },
+  {
+    "id": "tk-sm-l",
+    "name": "SM trainer Kit (Lycanroc)",
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-l/symbol",
     "cardCount": {
       "total": 30,
       "official": 30
@@ -1526,18 +1526,18 @@
     }
   },
   {
-    "id": "cel25",
-    "name": "Celebrations",
-    "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
-    "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol",
+    "id": "cel25cc",
+    "name": "Celebrations Classic Collection",
     "cardCount": {
       "total": 25,
       "official": 25
     }
   },
   {
-    "id": "cel25cc",
-    "name": "Celebrations Classic Collection",
+    "id": "cel25",
+    "name": "Celebrations",
+    "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+    "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol",
     "cardCount": {
       "total": 25,
       "official": 25
@@ -1554,6 +1554,14 @@
     }
   },
   {
+    "id": "swsh9tg",
+    "name": "Brilliant Stars Trainer Gallery",
+    "cardCount": {
+      "total": 30,
+      "official": 30
+    }
+  },
+  {
     "id": "swsh9",
     "name": "Brilliant Stars",
     "logo": "https://assets.tcgdex.net/en/swsh/swsh9/logo",
@@ -1561,14 +1569,6 @@
     "cardCount": {
       "total": 186,
       "official": 172
-    }
-  },
-  {
-    "id": "swsh9tg",
-    "name": "Brilliant Stars Trainer Gallery",
-    "cardCount": {
-      "total": 30,
-      "official": 30
     }
   },
   {
@@ -1644,14 +1644,6 @@
     }
   },
   {
-    "id": "swsh12.5gg",
-    "name": "Crown Zenith Galarian Gallery",
-    "cardCount": {
-      "total": 70,
-      "official": 70
-    }
-  },
-  {
     "id": "swsh12.5",
     "name": "Crown Zenith",
     "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo",
@@ -1659,6 +1651,14 @@
     "cardCount": {
       "total": 160,
       "official": 159
+    }
+  },
+  {
+    "id": "swsh12.5gg",
+    "name": "Crown Zenith Galarian Gallery",
+    "cardCount": {
+      "total": 70,
+      "official": 70
     }
   },
   {
@@ -1672,19 +1672,19 @@
     }
   },
   {
-    "id": "svp",
-    "name": "SVP Black Star Promos",
-    "cardCount": {
-      "total": 226,
-      "official": 225
-    }
-  },
-  {
     "id": "sve",
     "name": "Scarlet & Violet Energy",
     "cardCount": {
       "total": 24,
       "official": 24
+    }
+  },
+  {
+    "id": "svp",
+    "name": "SVP Black Star Promos",
+    "cardCount": {
+      "total": 226,
+      "official": 225
     }
   },
   {
@@ -1792,6 +1792,15 @@
     }
   },
   {
+    "id": "P-A",
+    "name": "Promos-A",
+    "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo",
+    "cardCount": {
+      "total": 100,
+      "official": 0
+    }
+  },
+  {
     "id": "A1",
     "name": "Genetic Apex",
     "logo": "https://assets.tcgdex.net/en/tcgp/A1/logo",
@@ -1799,15 +1808,6 @@
     "cardCount": {
       "total": 286,
       "official": 226
-    }
-  },
-  {
-    "id": "P-A",
-    "name": "Promos-A",
-    "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo",
-    "cardCount": {
-      "total": 100,
-      "official": 0
     }
   },
   {
@@ -1920,22 +1920,22 @@
     }
   },
   {
-    "id": "sv10.5w",
-    "name": "White Flare",
-    "logo": "https://assets.tcgdex.net/en/sv/sv10.5w/logo",
-    "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5w/symbol",
-    "cardCount": {
-      "total": 173,
-      "official": 86
-    }
-  },
-  {
     "id": "sv10.5b",
     "name": "Black Bolt",
     "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo",
     "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol",
     "cardCount": {
       "total": 172,
+      "official": 86
+    }
+  },
+  {
+    "id": "sv10.5w",
+    "name": "White Flare",
+    "logo": "https://assets.tcgdex.net/en/sv/sv10.5w/logo",
+    "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5w/symbol",
+    "cardCount": {
+      "total": 173,
       "official": 86
     }
   },

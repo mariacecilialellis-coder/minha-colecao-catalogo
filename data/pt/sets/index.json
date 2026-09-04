@@ -386,21 +386,21 @@
     }
   },
   {
-    "id": "smp",
-    "name": "Sol e Lua Promos",
-    "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol",
-    "cardCount": {
-      "total": 248,
-      "official": 248
-    }
-  },
-  {
     "id": "sm1",
     "name": "Sol e Lua",
     "symbol": "https://assets.tcgdex.net/univ/sm/sm1/symbol",
     "cardCount": {
       "total": 163,
       "official": 149
+    }
+  },
+  {
+    "id": "smp",
+    "name": "Sol e Lua Promos",
+    "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol",
+    "cardCount": {
+      "total": 248,
+      "official": 248
     }
   },
   {
@@ -654,18 +654,18 @@
     }
   },
   {
-    "id": "cel25",
-    "name": "Celebrações",
-    "logo": "https://assets.tcgdex.net/pt/swsh/cel25/logo",
-    "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol",
+    "id": "cel25cc",
+    "name": "Celebrações Coleção Clássica",
     "cardCount": {
       "total": 25,
       "official": 25
     }
   },
   {
-    "id": "cel25cc",
-    "name": "Celebrações Coleção Clássica",
+    "id": "cel25",
+    "name": "Celebrações",
+    "logo": "https://assets.tcgdex.net/pt/swsh/cel25/logo",
+    "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol",
     "cardCount": {
       "total": 25,
       "official": 25
@@ -682,6 +682,14 @@
     }
   },
   {
+    "id": "swsh9tg",
+    "name": "Astros Cintilantes Galeria de Treinador",
+    "cardCount": {
+      "total": 30,
+      "official": 30
+    }
+  },
+  {
     "id": "swsh9",
     "name": "Astros Cintilantes",
     "logo": "https://assets.tcgdex.net/pt/swsh/swsh9/logo",
@@ -689,14 +697,6 @@
     "cardCount": {
       "total": 186,
       "official": 172
-    }
-  },
-  {
-    "id": "swsh9tg",
-    "name": "Astros Cintilantes Galeria de Treinador",
-    "cardCount": {
-      "total": 30,
-      "official": 30
     }
   },
   {
@@ -764,14 +764,6 @@
     }
   },
   {
-    "id": "swsh12.5gg",
-    "name": "Realeza Absoluta Galeria de Galar",
-    "cardCount": {
-      "total": 70,
-      "official": 70
-    }
-  },
-  {
     "id": "swsh12.5",
     "name": "Realeza Absoluta",
     "logo": "https://assets.tcgdex.net/pt/swsh/swsh12.5/logo",
@@ -779,6 +771,14 @@
     "cardCount": {
       "total": 160,
       "official": 159
+    }
+  },
+  {
+    "id": "swsh12.5gg",
+    "name": "Realeza Absoluta Galeria de Galar",
+    "cardCount": {
+      "total": 70,
+      "official": 70
     }
   },
   {
@@ -792,19 +792,19 @@
     }
   },
   {
-    "id": "svp",
-    "name": "SVP Black Star Promos",
-    "cardCount": {
-      "total": 225,
-      "official": 225
-    }
-  },
-  {
     "id": "sve",
     "name": "Escarlate e Violeta Energia",
     "cardCount": {
       "total": 24,
       "official": 24
+    }
+  },
+  {
+    "id": "svp",
+    "name": "SVP Black Star Promos",
+    "cardCount": {
+      "total": 225,
+      "official": 225
     }
   },
   {
@@ -897,20 +897,20 @@
     }
   },
   {
+    "id": "P-A",
+    "name": "Promo-A",
+    "cardCount": {
+      "total": 0,
+      "official": 0
+    }
+  },
+  {
     "id": "A1",
     "name": "Dominação Genética",
     "symbol": "https://assets.tcgdex.net/univ/tcgp/A1/symbol",
     "cardCount": {
       "total": 226,
       "official": 226
-    }
-  },
-  {
-    "id": "P-A",
-    "name": "Promo-A",
-    "cardCount": {
-      "total": 0,
-      "official": 0
     }
   },
   {
@@ -993,20 +993,20 @@
     }
   },
   {
-    "id": "sv10.5w",
-    "name": "Fogo Branco",
-    "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5w/symbol",
-    "cardCount": {
-      "total": 173,
-      "official": 86
-    }
-  },
-  {
     "id": "sv10.5b",
     "name": "Raio Preto",
     "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol",
     "cardCount": {
       "total": 172,
+      "official": 86
+    }
+  },
+  {
+    "id": "sv10.5w",
+    "name": "Fogo Branco",
+    "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5w/symbol",
+    "cardCount": {
+      "total": 173,
       "official": 86
     }
   },

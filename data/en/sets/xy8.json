@@ -879,14 +879,14 @@
       "name": "Parallel City"
     },
     {
-      "id": "xy8-146",
-      "image": "https://assets.tcgdex.net/en/xy/xy8/146",
-      "localId": "146",
+      "id": "xy8-146a",
+      "localId": "146a",
       "name": "Professor's Letter"
     },
     {
-      "id": "xy8-146a",
-      "localId": "146a",
+      "id": "xy8-146",
+      "image": "https://assets.tcgdex.net/en/xy/xy8/146",
+      "localId": "146",
       "name": "Professor's Letter"
     },
     {

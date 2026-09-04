@@ -333,15 +333,15 @@
       "name": "Lucario EX"
     },
     {
-      "id": "xy3-55",
-      "image": "https://assets.tcgdex.net/pt/xy/xy3/55",
-      "localId": "55",
-      "name": "M-Lucario EX"
-    },
-    {
       "id": "xy3-55a",
       "image": "https://assets.tcgdex.net/pt/xy/xy3/55a",
       "localId": "55a",
+      "name": "M-Lucario EX"
+    },
+    {
+      "id": "xy3-55",
+      "image": "https://assets.tcgdex.net/pt/xy/xy3/55",
+      "localId": "55",
       "name": "M-Lucario EX"
     },
     {

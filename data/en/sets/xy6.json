@@ -465,15 +465,15 @@
       "name": "M Rayquaza EX"
     },
     {
-      "id": "xy6-77",
-      "image": "https://assets.tcgdex.net/en/xy/xy6/77",
-      "localId": "77",
-      "name": "Shaymin EX"
-    },
-    {
       "id": "xy6-77a",
       "image": "https://assets.tcgdex.net/en/xy/xy6/77a",
       "localId": "77a",
+      "name": "Shaymin EX"
+    },
+    {
+      "id": "xy6-77",
+      "image": "https://assets.tcgdex.net/en/xy/xy6/77",
+      "localId": "77",
       "name": "Shaymin EX"
     },
     {
@@ -561,15 +561,15 @@
       "name": "Switch"
     },
     {
-      "id": "xy6-92",
-      "image": "https://assets.tcgdex.net/en/xy/xy6/92",
-      "localId": "92",
-      "name": "Trainers' Mail"
-    },
-    {
       "id": "xy6-92a",
       "image": "https://assets.tcgdex.net/en/xy/xy6/92a",
       "localId": "92a",
+      "name": "Trainers' Mail"
+    },
+    {
+      "id": "xy6-92",
+      "image": "https://assets.tcgdex.net/en/xy/xy6/92",
+      "localId": "92",
       "name": "Trainers' Mail"
     },
     {

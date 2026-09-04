@@ -147,15 +147,15 @@
       "name": "Manectric EX"
     },
     {
-      "id": "xy4-24a",
-      "image": "https://assets.tcgdex.net/pt/xy/xy4/24a",
-      "localId": "24a",
-      "name": "M-Manectric EX"
-    },
-    {
       "id": "xy4-24",
       "image": "https://assets.tcgdex.net/pt/xy/xy4/24",
       "localId": "24",
+      "name": "M-Manectric EX"
+    },
+    {
+      "id": "xy4-24a",
+      "image": "https://assets.tcgdex.net/pt/xy/xy4/24a",
+      "localId": "24a",
       "name": "M-Manectric EX"
     },
     {
