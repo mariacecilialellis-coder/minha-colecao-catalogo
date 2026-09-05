@@ -1,8 +1,8 @@
 {
   "cardCount": {
     "firstEd": 0,
-    "holo": 140,
-    "normal": 3,
+    "holo": 436,
+    "normal": 19,
     "official": 307,
     "reverse": 0,
     "total": 307
@@ -1782,6 +1782,16 @@
       "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH298",
       "localId": "SWSH298",
       "name": "Hisuian Zoroark VSTAR"
+    },
+    {
+      "id": "swshp-SWSH299",
+      "localId": "SWSH299",
+      "name": "Jirachi V"
+    },
+    {
+      "id": "swshp-SWSH300",
+      "localId": "SWSH300",
+      "name": "Unown V"
     },
     {
       "id": "swshp-SWSH301",
