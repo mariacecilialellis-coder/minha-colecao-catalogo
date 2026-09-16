@@ -271,14 +271,6 @@
     }
   },
   {
-    "id": "ex5.5",
-    "name": "Poké Card Creator Pack",
-    "cardCount": {
-      "total": 5,
-      "official": 5
-    }
-  },
-  {
     "id": "tk-ex-latia",
     "name": "EX trainer Kit (Latias)",
     "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latia/symbol",
@@ -297,13 +289,11 @@
     }
   },
   {
-    "id": "ex6",
-    "name": "FireRed & LeafGreen",
-    "logo": "https://assets.tcgdex.net/en/ex/ex6/logo",
-    "symbol": "https://assets.tcgdex.net/univ/ex/ex6/symbol",
+    "id": "ex5.5",
+    "name": "Poké Card Creator Pack",
     "cardCount": {
-      "total": 116,
-      "official": 112
+      "total": 5,
+      "official": 5
     }
   },
   {
@@ -314,6 +304,16 @@
     "cardCount": {
       "total": 17,
       "official": 17
+    }
+  },
+  {
+    "id": "ex6",
+    "name": "FireRed & LeafGreen",
+    "logo": "https://assets.tcgdex.net/en/ex/ex6/logo",
+    "symbol": "https://assets.tcgdex.net/univ/ex/ex6/symbol",
+    "cardCount": {
+      "total": 116,
+      "official": 112
     }
   },
   {
