@@ -1118,5 +1118,21 @@
       "total": 120,
       "official": 84
     }
+  },
+  {
+    "id": "30th",
+    "name": "Celebração de 30 Anos",
+    "cardCount": {
+      "total": 128,
+      "official": 128
+    }
+  },
+  {
+    "id": "30th-c",
+    "name": "Coleção Clássica de 30 Anos",
+    "cardCount": {
+      "total": 30,
+      "official": 0
+    }
   }
 ]

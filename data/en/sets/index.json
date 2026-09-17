@@ -297,16 +297,6 @@
     }
   },
   {
-    "id": "pop1",
-    "name": "POP Series 1",
-    "logo": "https://assets.tcgdex.net/en/pop/pop1/logo",
-    "symbol": "https://assets.tcgdex.net/univ/pop/pop1/symbol",
-    "cardCount": {
-      "total": 17,
-      "official": 17
-    }
-  },
-  {
     "id": "ex6",
     "name": "FireRed & LeafGreen",
     "logo": "https://assets.tcgdex.net/en/ex/ex6/logo",
@@ -314,6 +304,16 @@
     "cardCount": {
       "total": 116,
       "official": 112
+    }
+  },
+  {
+    "id": "pop1",
+    "name": "POP Series 1",
+    "logo": "https://assets.tcgdex.net/en/pop/pop1/logo",
+    "symbol": "https://assets.tcgdex.net/univ/pop/pop1/symbol",
+    "cardCount": {
+      "total": 17,
+      "official": 17
     }
   },
   {
@@ -512,16 +512,6 @@
     }
   },
   {
-    "id": "pop6",
-    "name": "POP Series 6",
-    "logo": "https://assets.tcgdex.net/en/pop/pop6/logo",
-    "symbol": "https://assets.tcgdex.net/univ/pop/pop6/symbol",
-    "cardCount": {
-      "total": 17,
-      "official": 17
-    }
-  },
-  {
     "id": "tk-dp-l",
     "name": "DP trainer Kit (Lucario)",
     "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-l/symbol",
@@ -537,6 +527,16 @@
     "cardCount": {
       "total": 12,
       "official": 12
+    }
+  },
+  {
+    "id": "pop6",
+    "name": "POP Series 6",
+    "logo": "https://assets.tcgdex.net/en/pop/pop6/logo",
+    "symbol": "https://assets.tcgdex.net/univ/pop/pop6/symbol",
+    "cardCount": {
+      "total": 17,
+      "official": 17
     }
   },
   {
@@ -2067,6 +2067,22 @@
     "cardCount": {
       "total": 120,
       "official": 84
+    }
+  },
+  {
+    "id": "30th",
+    "name": "30th Celebration",
+    "cardCount": {
+      "total": 158,
+      "official": 128
+    }
+  },
+  {
+    "id": "30th-c",
+    "name": "30th Classic Collection",
+    "cardCount": {
+      "total": 30,
+      "official": 0
     }
   }
 ]
