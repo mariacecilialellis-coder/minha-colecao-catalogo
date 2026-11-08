@@ -1,11 +1,11 @@
 {
   "cardCount": {
     "firstEd": 0,
-    "holo": 113,
+    "holo": 109,
     "normal": 0,
     "official": 0,
     "reverse": 0,
-    "total": 88
+    "total": 80
   },
   "cards": [
     {
@@ -27,16 +27,6 @@
       "id": "mep-004",
       "localId": "004",
       "name": "Lunatone"
-    },
-    {
-      "id": "mep-005",
-      "localId": "005",
-      "name": "Drifloon"
-    },
-    {
-      "id": "mep-006",
-      "localId": "006",
-      "name": "Drifblim"
     },
     {
       "id": "mep-007",
@@ -94,16 +84,6 @@
       "name": "Toxtricity"
     },
     {
-      "id": "mep-018",
-      "localId": "018",
-      "name": "Cottonee"
-    },
-    {
-      "id": "mep-019",
-      "localId": "019",
-      "name": "Whimsicott"
-    },
-    {
       "id": "mep-020",
       "localId": "020",
       "name": "Sneasel"
@@ -142,11 +122,6 @@
       "id": "mep-027",
       "localId": "027",
       "name": "Haunter"
-    },
-    {
-      "id": "mep-028",
-      "localId": "028",
-      "name": "Fanfarra de Celebração"
     },
     {
       "id": "mep-029",
@@ -344,11 +319,6 @@
       "name": "Doublade"
     },
     {
-      "id": "mep-068",
-      "localId": "068",
-      "name": "Makuhita"
-    },
-    {
       "id": "mep-069",
       "localId": "069",
       "name": "Chikorita"
@@ -394,11 +364,6 @@
       "name": "Goodra"
     },
     {
-      "id": "mep-078",
-      "localId": "078",
-      "name": "Toxel"
-    },
-    {
       "id": "mep-079",
       "localId": "079",
       "name": "Charmeleon"
@@ -432,11 +397,6 @@
       "id": "mep-085",
       "localId": "085",
       "name": "Bastiodon"
-    },
-    {
-      "id": "mep-086",
-      "localId": "086",
-      "name": "Slowpoke"
     },
     {
       "id": "mep-087",

@@ -1,10 +1,10 @@
 {
   "cardCount": {
     "firstEd": 0,
-    "holo": 0,
-    "normal": 0,
+    "holo": 37,
+    "normal": 100,
     "official": 114,
-    "reverse": 0,
+    "reverse": 115,
     "total": 115
   },
   "cards": [

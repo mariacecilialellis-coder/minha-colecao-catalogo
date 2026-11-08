@@ -591,8 +591,9 @@
       "name": "Estouro de Balão"
     },
     {
-      "id": "xy9-98b",
-      "localId": "98b",
+      "id": "xy9-98",
+      "image": "https://assets.tcgdex.net/pt/xy/xy9/98",
+      "localId": "98",
       "name": "Delinquente"
     },
     {
@@ -601,9 +602,8 @@
       "name": "Delinquente"
     },
     {
-      "id": "xy9-98",
-      "image": "https://assets.tcgdex.net/pt/xy/xy9/98",
-      "localId": "98",
+      "id": "xy9-98b",
+      "localId": "98b",
       "name": "Delinquente"
     },
     {

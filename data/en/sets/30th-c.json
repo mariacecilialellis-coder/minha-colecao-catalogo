@@ -1,9 +1,9 @@
 {
   "cardCount": {
     "firstEd": 0,
-    "holo": 0,
+    "holo": 30,
     "normal": 0,
-    "official": 0,
+    "official": 30,
     "reverse": 0,
     "total": 30
   },

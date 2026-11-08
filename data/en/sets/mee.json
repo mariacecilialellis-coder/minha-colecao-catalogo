@@ -1,11 +1,11 @@
 {
   "cardCount": {
     "firstEd": 0,
-    "holo": 0,
+    "holo": 8,
     "normal": 8,
-    "official": 8,
+    "official": 16,
     "reverse": 8,
-    "total": 8
+    "total": 16
   },
   "cards": [
     {
@@ -47,6 +47,46 @@
       "id": "mee-008",
       "localId": "008",
       "name": "Metal Energy"
+    },
+    {
+      "id": "mee-009",
+      "localId": "009",
+      "name": "Basic Grass Energy"
+    },
+    {
+      "id": "mee-010",
+      "localId": "010",
+      "name": "Basic Fire Energy"
+    },
+    {
+      "id": "mee-011",
+      "localId": "011",
+      "name": "Basic Water Energy"
+    },
+    {
+      "id": "mee-012",
+      "localId": "012",
+      "name": "Basic Lightning Energy"
+    },
+    {
+      "id": "mee-013",
+      "localId": "013",
+      "name": "Basic Psychic Energy"
+    },
+    {
+      "id": "mee-014",
+      "localId": "014",
+      "name": "Basic Fighting Energy"
+    },
+    {
+      "id": "mee-015",
+      "localId": "015",
+      "name": "Basic Darkness Energy"
+    },
+    {
+      "id": "mee-016",
+      "localId": "016",
+      "name": "Basic Metal Energy"
     }
   ],
   "id": "mee",

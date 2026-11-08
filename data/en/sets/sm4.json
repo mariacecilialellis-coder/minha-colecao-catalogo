@@ -381,16 +381,16 @@
       "name": "Hydreigon"
     },
     {
-      "id": "sm4-63",
-      "image": "https://assets.tcgdex.net/en/sm/sm4/63",
-      "localId": "63",
-      "name": "Guzzlord GX"
-    },
-    {
       "id": "sm4-63a",
       "image": "https://assets.tcgdex.net/en/sm/sm4/63a",
       "localId": "63a",
       "name": "Guzzlord-GX"
+    },
+    {
+      "id": "sm4-63",
+      "image": "https://assets.tcgdex.net/en/sm/sm4/63",
+      "localId": "63",
+      "name": "Guzzlord GX"
     },
     {
       "id": "sm4-64",

@@ -1,11 +1,11 @@
 {
   "cardCount": {
     "firstEd": 0,
-    "holo": 113,
+    "holo": 148,
     "normal": 1,
     "official": 0,
     "reverse": 0,
-    "total": 89
+    "total": 112
   },
   "cards": [
     {
@@ -447,6 +447,121 @@
       "id": "mep-088",
       "localId": "088",
       "name": "Zarude"
+    },
+    {
+      "id": "mep-089",
+      "localId": "089",
+      "name": "Mega Zeraora ex"
+    },
+    {
+      "id": "mep-090",
+      "localId": "090",
+      "name": "Mega Darkrai ex"
+    },
+    {
+      "id": "mep-091",
+      "localId": "091",
+      "name": "Mega Dragonite ex"
+    },
+    {
+      "id": "mep-092",
+      "localId": "092",
+      "name": "Paradise Resort"
+    },
+    {
+      "id": "mep-093",
+      "localId": "093",
+      "name": "Pikachu"
+    },
+    {
+      "id": "mep-094",
+      "localId": "094",
+      "name": "Alolan Exeggutor"
+    },
+    {
+      "id": "mep-095",
+      "localId": "095",
+      "name": "Lucario"
+    },
+    {
+      "id": "mep-096",
+      "localId": "096",
+      "name": "Moltres"
+    },
+    {
+      "id": "mep-097",
+      "localId": "097",
+      "name": "Articuno"
+    },
+    {
+      "id": "mep-098",
+      "localId": "098",
+      "name": "Zapdos"
+    },
+    {
+      "id": "mep-099",
+      "localId": "099",
+      "name": "Greninja ex"
+    },
+    {
+      "id": "mep-100",
+      "localId": "100",
+      "name": "Sylveon ex"
+    },
+    {
+      "id": "mep-101",
+      "localId": "101",
+      "name": "Nidorina"
+    },
+    {
+      "id": "mep-102",
+      "localId": "102",
+      "name": "Victini"
+    },
+    {
+      "id": "mep-103",
+      "localId": "103",
+      "name": "Zeraora"
+    },
+    {
+      "id": "mep-104",
+      "localId": "104",
+      "name": "Mewtwo"
+    },
+    {
+      "id": "mep-105",
+      "localId": "105",
+      "name": "Mew"
+    },
+    {
+      "id": "mep-106",
+      "localId": "106",
+      "name": "Ditto"
+    },
+    {
+      "id": "mep-107",
+      "localId": "107",
+      "name": "Pikachu ex"
+    },
+    {
+      "id": "mep-108",
+      "localId": "108",
+      "name": "Espeon ex"
+    },
+    {
+      "id": "mep-109",
+      "localId": "109",
+      "name": "Pikachu ex"
+    },
+    {
+      "id": "mep-110",
+      "localId": "110",
+      "name": "Umbreon ex"
+    },
+    {
+      "id": "mep-120",
+      "localId": "120",
+      "name": "Celebratory Fanfare"
     },
     {
       "id": "mep-Museum",

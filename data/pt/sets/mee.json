@@ -1,11 +1,11 @@
 {
   "cardCount": {
     "firstEd": 0,
-    "holo": 0,
+    "holo": 8,
     "normal": 8,
-    "official": 8,
+    "official": 16,
     "reverse": 8,
-    "total": 8
+    "total": 16
   },
   "cards": [
     {
@@ -46,6 +46,46 @@
     {
       "id": "mee-008",
       "localId": "008",
+      "name": "Energia de Metal"
+    },
+    {
+      "id": "mee-009",
+      "localId": "009",
+      "name": "Energia de Grama"
+    },
+    {
+      "id": "mee-010",
+      "localId": "010",
+      "name": "Energia de Fogo"
+    },
+    {
+      "id": "mee-011",
+      "localId": "011",
+      "name": "Energia de Água"
+    },
+    {
+      "id": "mee-012",
+      "localId": "012",
+      "name": "Energia de Raios"
+    },
+    {
+      "id": "mee-013",
+      "localId": "013",
+      "name": "Energia Psíquica"
+    },
+    {
+      "id": "mee-014",
+      "localId": "014",
+      "name": "Energia de Luta"
+    },
+    {
+      "id": "mee-015",
+      "localId": "015",
+      "name": "Energia de Escuridão"
+    },
+    {
+      "id": "mee-016",
+      "localId": "016",
       "name": "Energia de Metal"
     }
   ],

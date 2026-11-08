@@ -5,7 +5,7 @@
     "normal": 0,
     "official": 18,
     "reverse": 0,
-    "total": 18
+    "total": 19
   },
   "cards": [
     {
@@ -115,6 +115,11 @@
       "image": "https://assets.tcgdex.net/en/sm/det1/18",
       "localId": "18",
       "name": "Slaking"
+    },
+    {
+      "id": "det1-25",
+      "localId": "25",
+      "name": "Lt. Yoshida"
     }
   ],
   "id": "det1",

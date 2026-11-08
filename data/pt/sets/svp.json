@@ -1,7 +1,7 @@
 {
   "cardCount": {
     "firstEd": 0,
-    "holo": 277,
+    "holo": 262,
     "normal": 43,
     "official": 225,
     "reverse": 0,
@@ -141,18 +141,6 @@
       "name": "Pelipper"
     },
     {
-      "id": "svp-023",
-      "image": "https://assets.tcgdex.net/pt/sv/svp/023",
-      "localId": "023",
-      "name": "Smoliv"
-    },
-    {
-      "id": "svp-024",
-      "image": "https://assets.tcgdex.net/pt/sv/svp/024",
-      "localId": "024",
-      "name": "Growlithe"
-    },
-    {
       "id": "svp-025",
       "image": "https://assets.tcgdex.net/pt/sv/svp/025",
       "localId": "025",
@@ -241,18 +229,6 @@
       "image": "https://assets.tcgdex.net/pt/sv/svp/039",
       "localId": "039",
       "name": "Mawile"
-    },
-    {
-      "id": "svp-040",
-      "image": "https://assets.tcgdex.net/pt/sv/svp/040",
-      "localId": "040",
-      "name": "Pawmi"
-    },
-    {
-      "id": "svp-041",
-      "image": "https://assets.tcgdex.net/pt/sv/svp/041",
-      "localId": "041",
-      "name": "Wooper de Paldea"
     },
     {
       "id": "svp-042",
@@ -367,18 +343,6 @@
       "image": "https://assets.tcgdex.net/pt/sv/svp/060",
       "localId": "060",
       "name": "Aegislash"
-    },
-    {
-      "id": "svp-061",
-      "image": "https://assets.tcgdex.net/pt/sv/svp/061",
-      "localId": "061",
-      "name": "Pineco"
-    },
-    {
-      "id": "svp-062",
-      "image": "https://assets.tcgdex.net/pt/sv/svp/062",
-      "localId": "062",
-      "name": "Sinistea"
     },
     {
       "id": "svp-063",
@@ -560,18 +524,6 @@
       "name": "Miraidon"
     },
     {
-      "id": "svp-093",
-      "image": "https://assets.tcgdex.net/pt/sv/svp/093",
-      "localId": "093",
-      "name": "Carvanha"
-    },
-    {
-      "id": "svp-094",
-      "image": "https://assets.tcgdex.net/pt/sv/svp/094",
-      "localId": "094",
-      "name": "Bellibolt"
-    },
-    {
       "id": "svp-095",
       "image": "https://assets.tcgdex.net/pt/sv/svp/095",
       "localId": "095",
@@ -710,18 +662,6 @@
       "name": "Tatsugiri"
     },
     {
-      "id": "svp-119",
-      "image": "https://assets.tcgdex.net/pt/sv/svp/119",
-      "localId": "119",
-      "name": "Toxel"
-    },
-    {
-      "id": "svp-120",
-      "image": "https://assets.tcgdex.net/pt/sv/svp/120",
-      "localId": "120",
-      "name": "Pupitar"
-    },
-    {
       "id": "svp-121",
       "image": "https://assets.tcgdex.net/pt/sv/svp/121",
       "localId": "121",
@@ -816,18 +756,6 @@
       "image": "https://assets.tcgdex.net/pt/sv/svp/136",
       "localId": "136",
       "name": "Bouffalant"
-    },
-    {
-      "id": "svp-137",
-      "image": "https://assets.tcgdex.net/pt/sv/svp/137",
-      "localId": "137",
-      "name": "Horsea"
-    },
-    {
-      "id": "svp-138",
-      "image": "https://assets.tcgdex.net/pt/sv/svp/138",
-      "localId": "138",
-      "name": "Porygon2"
     },
     {
       "id": "svp-139",
@@ -926,12 +854,6 @@
       "name": "Indeedee"
     },
     {
-      "id": "svp-155",
-      "image": "https://assets.tcgdex.net/pt/sv/svp/155",
-      "localId": "155",
-      "name": "Wooper"
-    },
-    {
       "id": "svp-156",
       "image": "https://assets.tcgdex.net/pt/sv/svp/156",
       "localId": "156",
@@ -942,12 +864,6 @@
       "image": "https://assets.tcgdex.net/pt/sv/svp/157",
       "localId": "157",
       "name": "Zapdos"
-    },
-    {
-      "id": "svp-158",
-      "image": "https://assets.tcgdex.net/pt/sv/svp/158",
-      "localId": "158",
-      "name": "Pachirisu"
     },
     {
       "id": "svp-159",
@@ -1096,16 +1012,6 @@
       "name": "Snorlax do Lupo"
     },
     {
-      "id": "svp-185",
-      "localId": "185",
-      "name": "Yanma"
-    },
-    {
-      "id": "svp-186",
-      "localId": "186",
-      "name": "Scraggy"
-    },
-    {
       "id": "svp-187",
       "localId": "187",
       "name": "Yanmega"
@@ -1154,16 +1060,6 @@
       "id": "svp-198",
       "localId": "198",
       "name": "Zacian ex"
-    },
-    {
-      "id": "svp-199",
-      "localId": "199",
-      "name": "Zarude"
-    },
-    {
-      "id": "svp-200",
-      "localId": "200",
-      "name": "Eevee"
     },
     {
       "id": "svp-201",

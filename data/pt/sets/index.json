@@ -519,21 +519,21 @@
     }
   },
   {
-    "id": "sma",
-    "name": "Destinos Ocultos Cofre Brilhante",
-    "symbol": "https://assets.tcgdex.net/univ/sm/sma/symbol",
-    "cardCount": {
-      "total": 94,
-      "official": 94
-    }
-  },
-  {
     "id": "sm115",
     "name": "Destinos Ocultos",
     "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol",
     "cardCount": {
       "total": 68,
       "official": 68
+    }
+  },
+  {
+    "id": "sma",
+    "name": "Destinos Ocultos Cofre Brilhante",
+    "symbol": "https://assets.tcgdex.net/univ/sm/sma/symbol",
+    "cardCount": {
+      "total": 94,
+      "official": 94
     }
   },
   {
@@ -606,6 +606,14 @@
     }
   },
   {
+    "id": "swsh4.5sv",
+    "name": "Destinos Brilhantes Cofre Brilhante",
+    "cardCount": {
+      "total": 122,
+      "official": 122
+    }
+  },
+  {
     "id": "swsh4.5",
     "name": "Destinos Brilhantes ",
     "logo": "https://assets.tcgdex.net/pt/swsh/swsh4.5/logo",
@@ -613,14 +621,6 @@
     "cardCount": {
       "total": 73,
       "official": 72
-    }
-  },
-  {
-    "id": "swsh4.5sv",
-    "name": "Destinos Brilhantes Cofre Brilhante",
-    "cardCount": {
-      "total": 122,
-      "official": 122
     }
   },
   {
@@ -682,14 +682,6 @@
     }
   },
   {
-    "id": "swsh9tg",
-    "name": "Astros Cintilantes Galeria de Treinador",
-    "cardCount": {
-      "total": 30,
-      "official": 30
-    }
-  },
-  {
     "id": "swsh9",
     "name": "Astros Cintilantes",
     "logo": "https://assets.tcgdex.net/pt/swsh/swsh9/logo",
@@ -697,6 +689,14 @@
     "cardCount": {
       "total": 186,
       "official": 172
+    }
+  },
+  {
+    "id": "swsh9tg",
+    "name": "Astros Cintilantes Galeria de Treinador",
+    "cardCount": {
+      "total": 30,
+      "official": 30
     }
   },
   {
@@ -764,6 +764,14 @@
     }
   },
   {
+    "id": "swsh12.5gg",
+    "name": "Realeza Absoluta Galeria de Galar",
+    "cardCount": {
+      "total": 70,
+      "official": 70
+    }
+  },
+  {
     "id": "swsh12.5",
     "name": "Realeza Absoluta",
     "logo": "https://assets.tcgdex.net/pt/swsh/swsh12.5/logo",
@@ -774,11 +782,11 @@
     }
   },
   {
-    "id": "swsh12.5gg",
-    "name": "Realeza Absoluta Galeria de Galar",
+    "id": "sve",
+    "name": "Escarlate e Violeta Energia",
     "cardCount": {
-      "total": 70,
-      "official": 70
+      "total": 24,
+      "official": 24
     }
   },
   {
@@ -789,14 +797,6 @@
     "cardCount": {
       "total": 258,
       "official": 198
-    }
-  },
-  {
-    "id": "sve",
-    "name": "Escarlate e Violeta Energia",
-    "cardCount": {
-      "total": 24,
-      "official": 24
     }
   },
   {
@@ -897,20 +897,20 @@
     }
   },
   {
-    "id": "P-A",
-    "name": "Promo-A",
-    "cardCount": {
-      "total": 0,
-      "official": 0
-    }
-  },
-  {
     "id": "A1",
     "name": "Dominação Genética",
     "symbol": "https://assets.tcgdex.net/univ/tcgp/A1/symbol",
     "cardCount": {
       "total": 226,
       "official": 226
+    }
+  },
+  {
+    "id": "P-A",
+    "name": "Promo-A",
+    "cardCount": {
+      "total": 0,
+      "official": 0
     }
   },
   {
@@ -993,20 +993,20 @@
     }
   },
   {
-    "id": "sv10.5b",
-    "name": "Raio Preto",
-    "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol",
-    "cardCount": {
-      "total": 172,
-      "official": 86
-    }
-  },
-  {
     "id": "sv10.5w",
     "name": "Fogo Branco",
     "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5w/symbol",
     "cardCount": {
       "total": 173,
+      "official": 86
+    }
+  },
+  {
+    "id": "sv10.5b",
+    "name": "Raio Preto",
+    "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol",
+    "cardCount": {
+      "total": 172,
       "official": 86
     }
   },
@@ -1023,8 +1023,16 @@
     "id": "mee",
     "name": "Megaevolução Energia",
     "cardCount": {
-      "total": 8,
-      "official": 8
+      "total": 16,
+      "official": 16
+    }
+  },
+  {
+    "id": "mep",
+    "name": "MEP Black Star Promos",
+    "cardCount": {
+      "total": 80,
+      "official": 0
     }
   },
   {
@@ -1035,14 +1043,6 @@
     "cardCount": {
       "total": 188,
       "official": 132
-    }
-  },
-  {
-    "id": "mep",
-    "name": "MEP Black Star Promos",
-    "cardCount": {
-      "total": 88,
-      "official": 0
     }
   },
   {
@@ -1123,7 +1123,7 @@
     "id": "30th",
     "name": "Celebração de 30 Anos",
     "cardCount": {
-      "total": 128,
+      "total": 161,
       "official": 128
     }
   },
@@ -1132,7 +1132,15 @@
     "name": "Coleção Clássica de 30 Anos",
     "cardCount": {
       "total": 30,
-      "official": 0
+      "official": 30
+    }
+  },
+  {
+    "id": "me06",
+    "name": "Reinado Delta",
+    "cardCount": {
+      "total": 141,
+      "official": 103
     }
   }
 ]
