@@ -512,6 +512,16 @@
     }
   },
   {
+    "id": "pop6",
+    "name": "POP Series 6",
+    "logo": "https://assets.tcgdex.net/en/pop/pop6/logo",
+    "symbol": "https://assets.tcgdex.net/univ/pop/pop6/symbol",
+    "cardCount": {
+      "total": 17,
+      "official": 17
+    }
+  },
+  {
     "id": "tk-dp-l",
     "name": "DP trainer Kit (Lucario)",
     "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-l/symbol",
@@ -527,16 +537,6 @@
     "cardCount": {
       "total": 12,
       "official": 12
-    }
-  },
-  {
-    "id": "pop6",
-    "name": "POP Series 6",
-    "logo": "https://assets.tcgdex.net/en/pop/pop6/logo",
-    "symbol": "https://assets.tcgdex.net/univ/pop/pop6/symbol",
-    "cardCount": {
-      "total": 17,
-      "official": 17
     }
   },
   {
